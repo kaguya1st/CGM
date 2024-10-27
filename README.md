@@ -7,11 +7,11 @@ pip install -r requirements.txt
 ```
 input query id in data.txt
 ```bash
-nano data txt
+nano data.txt
 ```
 Run bot
 ```bash
-python bot py
+python bot.py
 ```
 
 
